@@ -14,6 +14,10 @@
                 "path": "/home/as1001/RP/Ethereum Benchmark/build/contracts/Record_keeper.json",
                 
                 "address": "0x84Ffcc4a5a3C60f2C60ee19D74Ac7Bd1eA625B6F",
+                "gas": {
+                    "addTreatment": 3000000,
+                    "viewHistory": 3000000 
+                },
                 "abi": [
                           {
                             "constant": false,
