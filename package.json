@@ -1,0 +1,24 @@
+{
+  "name": "ethereum-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashay1001/Ethereum-Benchmarking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashay1001/Ethereum-Benchmarking/issues"
+  },
+  "homepage": "https://github.com/ashay1001/Ethereum-Benchmarking#readme",
+  "dependencies": {
+    "@hyperledger/caliper-cli": "^0.4.2",
+    "web3": "^1.2.2"
+  }
+}

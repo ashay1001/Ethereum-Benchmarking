@@ -1,0 +1,6 @@
+2022.04.26-16:00:41.673[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2022.04.26-16:00:41.826[33m warn [39m [caliper] [bind] 	SUT SDK version is not specified, defaulting to "latest"
+2022.04.26-16:00:41.827[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/as1001/RP/Ethereum Benchmark"
+2022.04.26-16:00:41.828[32m info [39m [caliper] [bind] 	Binding for ethereum@latest. This might take some time...
+2022.04.26-16:00:41.828[32m info [39m [caliper] [bind] 	Using working directory: /home/as1001/RP/Ethereum Benchmark
+2022.04.26-16:00:41.828[32m info [39m [caliper] [bind] 	Calling npm with: install web3@1.2.2

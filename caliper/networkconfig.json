@@ -4,16 +4,16 @@
     },
     "ethereum": {
         "url": "ws://127.0.0.1:7545",
-        "contractDeployerAddress": "0x5f8DD2E0dAf2047620DfF6f4620b2a75cDc2308d",
+        "contractDeployerAddress": "0x03C1A8a068566b581017EFe43cE6E5630bF542AF",
         "contractDeployerAddressPassword": "",
-        "fromAddress": "0x5f8DD2E0dAf2047620DfF6f4620b2a75cDc2308d",
+        "fromAddress": "0x03C1A8a068566b581017EFe43cE6E5630bF542AF",
         "fromAddressPassword": "",
         "transactionConfirmationBlocks": 2,
         "contracts": {
             "record_keeper": {
                 "path": "/home/as1001/RP/Ethereum Benchmark/build/contracts/Record_keeper.json",
                 
-                "address": "0x682682807C08F3F871A8F622417F6eccaB8Df6EB",
+                "address": "0x84Ffcc4a5a3C60f2C60ee19D74Ac7Bd1eA625B6F",
                 "abi": [
                           {
                             "constant": false,
